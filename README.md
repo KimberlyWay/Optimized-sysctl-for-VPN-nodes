@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Optimized sysctl for VPN Nodes
 
 Этот конфиг оптимизирует ядро Linux для работы высоконагруженных VPN-нод (**VLESS, Xray, Reality, WireGuard**). 
