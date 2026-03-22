@@ -18,7 +18,7 @@
 Запустите эту команду на своем сервере, чтобы автоматически скачать и применить конфиг:
 
 ```bash
-sudo curl -sSL [https://raw.githubusercontent.com/KimberlyWay/Optimized-sysctl-for-VPN-nodes/main/sysctl.conf](https://raw.githubusercontent.com/KimberlyWay/Optimized-sysctl-for-VPN-nodes/main/sysctl.conf) -o /etc/sysctl.conf && sudo sysctl -p
+sudo curl -sSL https://raw.githubusercontent.com/KimberlyWay/Optimized-sysctl-for-VPN-nodes/main/sysctl.conf -o /etc/sysctl.conf && sudo sysctl -p
 ```
 
 ---
